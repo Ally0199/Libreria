@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Carrito de comprass</title>
+    <title>Carrito de compras</title>
     <?php include './inc/link.php'; ?>
 </head>
 <body id="container-page-index">
